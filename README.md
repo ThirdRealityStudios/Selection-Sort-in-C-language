@@ -1,4 +1,4 @@
-# Selection Sort in C language with for-loop only
+# Selection Sort in C language
 Simple imlementation of Selection Sort in C, using memory allocation and randomly generated values.
 No comments in code.
 
